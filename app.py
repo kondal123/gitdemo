@@ -1,1 +1,1 @@
-print("Welcome to VCS:git")
+print("Welcome to VCS,git")
